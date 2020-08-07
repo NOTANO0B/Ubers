@@ -6,6 +6,6 @@
 # NOTE: I DO NOT GAIN ANY REVENUE FROM THIS
 ## replays below
 [1](https://replay.pokemonshowdown.com/gen8ubers-1164751476)
-<br>[2](https://replay.pokemonshowdown.com/gen8ubers-1164734555)
-<br>[3](https://replay.pokemonshowdown.com/gen8ubers-1164745737)
-<br>[4](https://replay.pokemonshowdown.com/gen8ubers-1164759805)
+[2](https://replay.pokemonshowdown.com/gen8ubers-1164734555)
+[3](https://replay.pokemonshowdown.com/gen8ubers-1164745737)
+[4](https://replay.pokemonshowdown.com/gen8ubers-1164759805)
