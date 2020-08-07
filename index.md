@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/NOTANO0B/Ubers/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NOTANO0B/Ubers/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# UBERS
+# What the heck is Ubers?!
+## Ubers is sorta like a class in pokemon, which includes the pokemon with the best stats, typically legendaries.
+### Okay, so what is this about
+#### this is a page demonstrating what the Uber class pokemon can do, what the best skills and stuff are. Here I'm gonna use my "Mad Ubers" Pokemon Showdown team for demonstration. I will not leave the details of my team here, but instead I'll leave links to replays of my battles here. Eventually you'll figure it out if you watch enough of it.
+# NOTE: I DO NOT GAIN ANY REVENUE FROM THIS
+## replays below
+(https://replay.pokemonshowdown.com/gen8ubers-1164751476)[1]
+<br>(https://replay.pokemonshowdown.com/gen8ubers-1164734555)[2]
+<br>(https://replay.pokemonshowdown.com/gen8ubers-1164745737)[3]
