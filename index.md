@@ -10,3 +10,4 @@
 [3](https://replay.pokemonshowdown.com/gen8ubers-1164745737)
 [4](https://replay.pokemonshowdown.com/gen8ubers-1164759805)
 [5](https://replay.pokemonshowdown.com/gen8ubers-1165168843)
+[6](https://replay.pokemonshowdown.com/gen8ubers-1165183574)
