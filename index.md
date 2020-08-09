@@ -19,3 +19,4 @@
 [12](https://replay.pokemonshowdown.com/gen8ubers-1165736791-v6sg7nujjcixtemgadlpj40shzhwg2mpw)
 [13](https://replay.pokemonshowdown.com/gen8ubers-1165772444)
 [14](https://replay.pokemonshowdown.com/gen8ubers-1165778415)
+[15](https://replay.pokemonshowdown.com/gen8ubers-1165816406)
